@@ -1,0 +1,5 @@
+C:\Users\ruslania\source\repos\Batdiq\Batdiq\obj\Debug\netcoreapp3.1\Batdiq.csproj.AssemblyReference.cache
+C:\Users\ruslania\source\repos\Batdiq\Batdiq\obj\Debug\netcoreapp3.1\Batdiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslania\source\repos\Batdiq\Batdiq\obj\Debug\netcoreapp3.1\Batdiq.AssemblyInfoInputs.cache
+C:\Users\ruslania\source\repos\Batdiq\Batdiq\obj\Debug\netcoreapp3.1\Batdiq.AssemblyInfo.cs
+C:\Users\ruslania\source\repos\Batdiq\Batdiq\obj\Debug\netcoreapp3.1\Batdiq.csproj.CoreCompileInputs.cache
